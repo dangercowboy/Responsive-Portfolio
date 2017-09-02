@@ -1,0 +1,7 @@
+@media only screen and (max-device-width: 980px) {
+
+.container {
+    max-width: 768px;
+}
+
+}
